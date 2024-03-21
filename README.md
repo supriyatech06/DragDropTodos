@@ -50,4 +50,7 @@ The project is deployed on Vercel. You can access the deployed application using
 ```npm start
 5.Open your browser and visit http://localhost:3000 to view the application.
 
+### Screenshot
+![Dashboard](https://github.com/)
+
 
